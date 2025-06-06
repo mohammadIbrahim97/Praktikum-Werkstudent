@@ -20,12 +20,12 @@ Willkommen! Dieses Repository dient dazu, **Summer 2025 IT Internships** in den 
 <div align="center">
   <h3>😫 Lebenslauf bei jeder Bewerbung neu eingeben?</h3>
   <p>
-    <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Mit einem Klick alle Bewerbungen ausfüllen – mit Simplify!</a></strong>
+    <strong><a href="https://simplify.jobs/install?utm_source=GHList&utm_medium=banner">Mit einem Klick alle Bewerbungen ausfüllen – mit praktika!</a></strong>
   </p>
   <a href="https://simplify.jobs/copilot?utm_source=GHList&utm_medium=banner">
-    <img src="https://camo.githubusercontent.com/3a63d32f598be7ad8f42418759e5cae72189725cc04579ab6f178dbd181a1d5d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6470656f3478636e632f696d6167652f75706c6f61642f76313639303433373935382f4672616d655f323032325f436f7665722e706e67" width="400" alt="Simplify Banner">
+    <img src="https://camo.githubusercontent.com/3a63d32f598be7ad8f42418759e5cae72189725cc04579ab6f178dbd181a1d5d/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6470656f3478636e632f696d6167652f75706c6f61642f76313639303433373935382f4672616d655f323032325f436f7665722e706e67" width="400" alt="Praktika Banner">
   </a>
-  <p><sub><i>Simplify hilft dir, Praktikumsbewerbungen auf Millionen von Seiten automatisch auszufüllen.</i></sub></p>
+  <p><sub><i>Praktika hilft dir, Praktikumsbewerbungen auf Millionen von Seiten automatisch auszufüllen.</i></sub></p>
 </div>
 
 ---
