@@ -1,4 +1,4 @@
-# Praktikum-Werkstudent
+# Praktika-Werkstudent
 
 Willkommen! Dieses Repository dient dazu, **Summer 2025 IT Internships** in den Bereichen Software, Data Science, Quantitative Finance und mehr zu teilen und zu verfolgen. Die Liste wird täglich vom Team gepflegt und aktualisiert.
 
